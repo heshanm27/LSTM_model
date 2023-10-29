@@ -1,0 +1,2 @@
+model_checkpoint_path: "cp-20231029-124136.ckpt"
+all_model_checkpoint_paths: "cp-20231029-124136.ckpt"
